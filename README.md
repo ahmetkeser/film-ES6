@@ -1,0 +1,1 @@
+## Bu proje javascript document - ES6 class yapılarına çevirilmiştir
